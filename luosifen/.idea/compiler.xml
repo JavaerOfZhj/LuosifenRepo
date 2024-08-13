@@ -7,8 +7,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="luosifen-web" />
-        <module name="luosifen-service" />
+        <module name="luosifen-common" />
         <module name="luosifen-start" />
+        <module name="luosifen-service" />
+        <module name="luosifen-domain" />
       </profile>
     </annotationProcessing>
   </component>
