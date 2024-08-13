@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.wmj.luosifen.demos.web;
+package com.wmj.luosifen.web;
 
 /**
  * @author <a href="mailto:chenxilzx1@gmail.com">theonefx</a>

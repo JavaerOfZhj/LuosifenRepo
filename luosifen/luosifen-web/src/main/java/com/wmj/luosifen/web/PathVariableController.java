@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.wmj.luosifen.demos.web;
+package com.wmj.luosifen.web;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.PathVariable;
